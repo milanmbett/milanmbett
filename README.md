@@ -1,4 +1,4 @@
-##Hi my name is Milán
+<h1>Hi my name is Milán</h1>
 
 Computer science student at Budapest University of Technology and Economics<br/>
 
