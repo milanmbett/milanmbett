@@ -63,16 +63,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=milanmbett&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1"/>
 </div>
 
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/milanmbett?style=social)](https://github.com/milanmbett)
-[![Profile Views](https://visitcount.itsvg.in/api?id=milanmbett&label=Profile%20Views&color=0e75b6&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
 
 ---
 
